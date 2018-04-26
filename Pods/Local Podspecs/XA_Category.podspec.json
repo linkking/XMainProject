@@ -1,0 +1,28 @@
+{
+  "name": "XA_Category",
+  "version": "1.0.0",
+  "summary": "XA_Category.",
+  "description": "this is XA_Category",
+  "homepage": "https://github.com/linkking/XA_Category",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "linkking": "xxxx@msn.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/linkking/XA_Category.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "XA_Category/XA_Category/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
